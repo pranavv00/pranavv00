@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Data Structures and Algorithms (C++)**  
-- 🌱 Learning **Advanced DSA **  
+- 🌱 Learning **Advanced DSA + Competitive Programming**  
 - 💡 Interested in **Open Source, AI/ML, and Backend Development**  
 - 📫 Reach me at: **pranavgawandee@gmail.com**
 
