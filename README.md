@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack  
 **Languages:** Java, C++, Python, JavaScript, SQL, HTML, CSS  
-**Frameworks:** Spring Boot, Next.js, React, Node.js, Tailwind,   
+**Frameworks:** Spring Boot, Next.js, React, Node.js, Tailwind   
 **Databases:** MySQL, OracleDB, Supabase, SQL Server  
 **Cloud & Tools:** AWS, GCP, Azure, Git, GitHub  
 
