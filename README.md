@@ -1,58 +1,72 @@
-<h1 align="center">Hi 👋, I'm Pranav Gawande</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Pranav Gawande</h1>
+<h3 align="center">Full-Stack Engineer • Systems Builder</h3>
 
 <p align="center">
-  <a href="mailto:gawandepranav27@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/pranav-gawande">💼 LinkedIn</a> • 
-  <a href="https://leetcode.com/u/pranavvv__/">🧠 LeetCode</a>
+  <a href="mailto:gawandepranav27@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/pranav-gawande">LinkedIn</a> • 
+  <a href="https://leetcode.com/u/pranavvv__/">LeetCode</a>
+</p>
+
+---
+
+## ⚡ About
+
+I build and ship full-stack products that work in the real world.
+
+Built and deployed multiple production systems — including platforms handling **500+ daily transactions** and pipelines designed for **low latency and reliability**.
+
+I focus on turning messy ideas into structured, scalable systems — often involving automation, data pipelines, and products that run without constant manual intervention.
+
+Projects like **devjobs.site** (self-updating job platform) and **interviewforge.xyz** (developer learning system) reflect how I think — build useful systems, not just features.
+
+---
+
+## 🚀 What I Work On
+
+- Full-stack systems  
+- Data pipelines & automation workflows  
+- AI-powered applications  
+- Scalable production systems  
+
+---
+
+## 🧠 Selected Work
+
+**devjobs.site**  
+Self-updating job platform powered by automated pipelines  
+
+**interviewforge.xyz**  
+Developer learning platform with structured concept explanations  
+
+**Welth AI**  
+Finance platform handling 500+ daily transactions  
+
+**EduGenie**  
+AI course generator (<30s generation time)  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavv00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux" />
 </p>
 
 ---
 
-## 🚀 About Me  
-
-- 🎓 B.Tech CSE @ **MIT ADT University, Pune (2026)**  
-- 💻 Focused on **Full-Stack Development, DSA & AI-powered solutions**  
-- 🌱 Currently learning **DSA in C++ & scalable AI systems**  
-- 🤝 Open to **open-source & real-world collaborations**  
-
----
-
-## 💻 Tech Stack  
-
-### 🚀 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql" />
-</p>
-
-### ⚡ Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" />
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### ☁️ Cloud & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,github,vercel,postman" />
-</p>
-
-### 🤖 Interests  
-`AI Applications` `Scalable Systems` `Automation` `Problem Solving (DSA)`
-
----
-
-## 📊 GitHub Stats  
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavv00&show_icons=true&theme=tokyonight" />
@@ -62,33 +76,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavv00&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## 💡 Philosophy
+
+> Build systems, not just features  
+> Ship fast, iterate faster  
+> Real-world reliability > perfect code  
+
+---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavv00&theme=tokyonight" />
+  ⭐ If something here helps you, consider starring a repo
 </p>
-
----
-
-## 🌐 Let's Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/pranav-gawande">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Gawande-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:gawandepranav27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/u/pranavvv__/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
----
-
-## 💡 Motto  
-
-> Building real-world solutions > just learning theory  
-> Consistency > Motivation  
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*
