@@ -31,10 +31,10 @@
 
 <div align="left">
 <p>
-<a href="https://pranv.xyz/projects/devjobs"><img src="https://img.shields.io/badge/devjobs.site-Job_Board-171717?style=flat" alt="devjobs.site" /></a> &mdash; A modern job board connecting developers with top opportunities.<br/><br/>
-<a href="https://pranv.xyz/projects/edugenie"><img src="https://img.shields.io/badge/EduGenie-AI_Education-171717?style=flat" alt="EduGenie" /></a> &mdash; AI-powered education platform for personalized learning.<br/><br/>
-<a href="https://pranv.xyz/projects/skipify"><img src="https://img.shields.io/badge/Skipify-Project-171717?style=flat" alt="Skipify" /></a> &mdash; Seamless and lightning-fast checkout experience.<br/><br/>
-<a href="https://pranv.xyz/projects/easydocs"><img src="https://img.shields.io/badge/EasyDocs-Documentation-171717?style=flat" alt="EasyDocs" /></a> &mdash; Simplified documentation management for modern teams.<br/><br/>
-<a href="https://pranv.xyz/projects/welth"><img src="https://img.shields.io/badge/WelthAI-AI_Wealth_Management-171717?style=flat" alt="WelthAI" /></a> &mdash; Intelligent wealth management and financial insights powered by AI.
+<a href="https://pranv.xyz/projects/devjobs"><img src="https://img.shields.io/badge/devjobs.site-Job_Board-171717?style=flat" alt="devjobs.site" align="absmiddle" /></a> &mdash; A modern job board connecting developers with top opportunities.<br/><br/>
+<a href="https://pranv.xyz/projects/edugenie"><img src="https://img.shields.io/badge/EduGenie-AI_Education-171717?style=flat" alt="EduGenie" align="absmiddle" /></a> &mdash; AI-powered education platform for personalized learning.<br/><br/>
+<a href="https://pranv.xyz/projects/skipify"><img src="https://img.shields.io/badge/Skipify-Project-171717?style=flat" alt="Skipify" align="absmiddle" /></a> &mdash; Seamless and lightning-fast checkout experience.<br/><br/>
+<a href="https://pranv.xyz/projects/easydocs"><img src="https://img.shields.io/badge/EasyDocs-Documentation-171717?style=flat" alt="EasyDocs" align="absmiddle" /></a> &mdash; Simplified documentation management for modern teams.<br/><br/>
+<a href="https://pranv.xyz/projects/welth"><img src="https://img.shields.io/badge/WelthAI-AI_Wealth_Management-171717?style=flat" alt="WelthAI" align="absmiddle" /></a> &mdash; Intelligent wealth management and financial insights powered by AI.
 </p>
 </div>
