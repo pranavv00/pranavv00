@@ -32,7 +32,7 @@
 <br />
 
 <div align="left">
-<p>
+
 <a href="https://www.devjobs.site/"><img src="https://img.shields.io/badge/DevJobsHub-Job_Board-171717?style=flat" alt="DevJobsHub" align="absmiddle" /></a>
 > Automated remote developer job aggregator with AI-ready scraping and a blazing-fast Next.js job board.
 
@@ -47,5 +47,5 @@
 
 <a href="https://github.com/pranavv00/EasyDocs"><img src="https://img.shields.io/badge/EasyDocs_Bot-Bot-171717?style=flat" alt="EasyDocs Bot" align="absmiddle" /></a>
 > WhatsApp-based document assistant for converting, processing, and managing files directly in chat.
-</p>
+
 </div>
