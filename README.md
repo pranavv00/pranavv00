@@ -24,21 +24,6 @@
 
 <br />
 
-<!-- PULSE:START -->
-
-🛰️ Live Tech Pulse
-━━━━━━━━━━━━━━━━━━
-
-→ [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
-→ [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
-→ [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
-→ [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
-→ [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
-
-Last Sync: 02:58 UTC
-
-<!-- PULSE:END -->
-
 <br /><p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=⚡+DEPLOYED+PROJECTS+⚡;───────────────────────" alt="Projects Header" />
 </p>
