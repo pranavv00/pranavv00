@@ -39,7 +39,7 @@
 <a href="https://ai-course-generator-s6pg.vercel.app/"><img src="https://img.shields.io/badge/EduGenie-AI_Education-171717?style=flat" alt="EduGenie" align="absmiddle" /></a>
 > AI-powered coding course generator that creates personalized learning paths with content, code examples, and video resources.
 
-<a href="https://pranv.xyz/projects/welth"><img src="https://img.shields.io/badge/WealthAI-Finance-171717?style=flat" alt="WealthAI" align="absmiddle" /></a>
+<a href="https://welthh-ai.vercel.app/"><img src="https://img.shields.io/badge/WealthAI-Finance-171717?style=flat" alt="WealthAI" align="absmiddle" /></a>
 > Smart AI-driven finance management platform for tracking, analyzing, and optimizing personal financial data.
 
 <a href="https://github.com/pranavv00/Skipify"><img src="https://img.shields.io/badge/Skipify-Extension-171717?style=flat" alt="Skipify" align="absmiddle" /></a>
