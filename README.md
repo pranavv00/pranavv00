@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,bun,mongodb,postgres,prisma,git,figma&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,prisma,drizzle,vercel,railway&theme=dark&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -31,10 +31,10 @@
 
 <div align="left">
 <p>
-<a href="https://pranv.xyz/projects/devjobs"><img src="https://img.shields.io/badge/devjobs.site-Job_Board-171717?style=flat" alt="devjobs.site" align="absmiddle" /></a> &mdash; A modern job board connecting developers with top opportunities.<br/><br/>
-<a href="https://pranv.xyz/projects/edugenie"><img src="https://img.shields.io/badge/EduGenie-AI_Education-171717?style=flat" alt="EduGenie" align="absmiddle" /></a> &mdash; AI-powered education platform for personalized learning.<br/><br/>
-<a href="https://pranv.xyz/projects/skipify"><img src="https://img.shields.io/badge/Skipify-Project-171717?style=flat" alt="Skipify" align="absmiddle" /></a> &mdash; Seamless and lightning-fast checkout experience.<br/><br/>
-<a href="https://pranv.xyz/projects/easydocs"><img src="https://img.shields.io/badge/EasyDocs-Documentation-171717?style=flat" alt="EasyDocs" align="absmiddle" /></a> &mdash; Simplified documentation management for modern teams.<br/><br/>
-<a href="https://pranv.xyz/projects/welth"><img src="https://img.shields.io/badge/WelthAI-AI_Wealth_Management-171717?style=flat" alt="WelthAI" align="absmiddle" /></a> &mdash; Intelligent wealth management and financial insights powered by AI.
+<a href="https://pranv.xyz/projects/devjobs"><img src="https://img.shields.io/badge/devjobs.site-Job_Board-171717?style=flat" alt="devjobs.site" align="absmiddle" /></a> &mdash; 𝙰 𝚖𝚘𝚍𝚎𝚛𝚗 𝚓𝚘𝚋 𝚋𝚘𝚊𝚛𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚠𝚒𝚝𝚑 𝚝𝚘𝚙 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜.<br/><br/>
+<a href="https://pranv.xyz/projects/edugenie"><img src="https://img.shields.io/badge/EduGenie-AI_Education-171717?style=flat" alt="EduGenie" align="absmiddle" /></a> &mdash; 𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚒𝚣𝚎𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐.<br/><br/>
+<a href="https://pranv.xyz/projects/skipify"><img src="https://img.shields.io/badge/Skipify-Project-171717?style=flat" alt="Skipify" align="absmiddle" /></a> &mdash; 𝚂𝚎𝚊𝚖𝚕𝚎𝚜𝚜 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝𝚗𝚒𝚗𝚐-𝚏𝚊𝚜𝚝 𝚌𝚑𝚎𝚌𝚔𝚘𝚞𝚝 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.<br/><br/>
+<a href="https://pranv.xyz/projects/easydocs"><img src="https://img.shields.io/badge/EasyDocs-Documentation-171717?style=flat" alt="EasyDocs" align="absmiddle" /></a> &mdash; 𝚂𝚒𝚖𝚙𝚕𝚒𝚏𝚒𝚎𝚍 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚏𝚘𝚛 𝚖𝚘𝚍𝚎𝚛𝚗 𝚝𝚎𝚊𝚖𝚜.<br/><br/>
+<a href="https://pranv.xyz/projects/welth"><img src="https://img.shields.io/badge/WelthAI-AI_Wealth_Management-171717?style=flat" alt="WelthAI" align="absmiddle" /></a> &mdash; 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝚠𝚎𝚊𝚕𝚝𝚑 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕 𝚒𝚗𝚜𝚒𝚐𝚑𝚝𝚜 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙰𝙸.
 </p>
 </div>
