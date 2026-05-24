@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,prisma,drizzle,vercel,railway&theme=dark&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,prisma,vercel&theme=dark&perline=8" alt="Tech Stack Icons" />
   </a>
 </p>
 
