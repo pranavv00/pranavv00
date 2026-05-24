@@ -15,11 +15,9 @@
 <br />
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" scrolltarget="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,prisma,vercel&theme=dark&perline=16" alt="Tech Stack Icons" />
-    </a>
-  </marquee>
+  <a href="https://skillicons.dev">
+    <img src="./assets/animated-icons.svg" alt="Tech Stack Icons" width="800" />
+  </a>
 </p>
 
 <br />
