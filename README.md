@@ -1,7 +1,7 @@
-# 𝙷𝚎𝚢, 𝙸'𝚖 𝙿𝚛𝚊𝚗𝚊𝚟
+# hey, i'm pranav
 
-*i build things people actually use.*
+*i turn ideas into products.*
 
-building **freepdf.lol** and exploring ai, automation & open source.
+building cool stuff with typescript, react, next.js & ai.
 
-currently → shipping.
+currently → **freepdf.lol**
